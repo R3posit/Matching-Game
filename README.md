@@ -1,30 +1,30 @@
-# 🃏 Kart Eşleştirme Oyunu
+# 🃏 Memory Card Matching Game
 
-C# Windows Forms ile geliştirilmiş basit ve eğlenceli bir kart eşleştirme (hafıza) oyunu projesidir. Oyunun amacı aynı kartları bularak eşleştirmek ve hafızanızı test etmektir.
+A simple and fun memory card matching game developed with C# Windows Forms. The objective of the game is to find and match identical cards to test your memory skills.
 
-## 📋 Özellikler
-
-- Rastgele kart dağıtımı ve karıştırma.
-- Zamanlayıcı ile kartların açık kalma süresini ayarlama.
-- Kullanıcıların seçtiği kartları kontrol etme ve eşleşip eşleşmediğini belirleme.
-- Puan sistemi ile eşleşen kartları takip etme.
-
-## ⚙️ Kullanılan Teknolojiler
+## ⚙️ Technologies Used
 
 - .NET Framework (C#)
 - Windows Forms
 
-## 🎮 Nasıl Oynanır?
+## 🎮 How to Play?
 
-- Oyunu başlatmak için **"Başlat"** butonuna tıklayın.
-- Rastgele karıştırılan kartları 5 saniye görebilirsiniz.
-- Ardından kartlar ters çevrilir ve kullanıcı kartları eşleştirmeye çalışır.
-- İki aynı kart seçildiğinde puan kazanılır.
+- Click the **"Start"** button to begin the game.
+- Cards will be shuffled randomly and displayed briefly.
+- Click on two cards per turn to reveal them.
+- If the selected cards match, they remain visible and you earn points.
+- If they do not match, they flip back after a short delay.
 
-## 🎯 Oyun Kuralları
+## 🕹️ How to Run
 
-- Her oyuncu tur başına iki kart seçebilir.
-- Aynı iki kart eşleşirse oyuncu puan kazanır.
-- Eşleşmeyen kartlar kısa süre sonra geri kapanır.
+1. Clone or download the project as a ZIP.
+2. Open the project in Visual Studio.
+3. Build and run the project.
 
-İyi oyunlar! 🚀✨
+## 🎯 Game Rules
+
+- You can select two cards per turn.
+- Matching two identical cards scores points.
+- Unmatched cards will flip back after a brief moment.
+
+Enjoy the game! 🚀✨
